@@ -1,12 +1,10 @@
-// #STEPS IN INSTALLING EXPRESS\
-// mkdir myapp
-// cd myapp
-
-// npm init
-
-// npm install express
-
-add .gitignore 
+/* #STEPS IN INSTALLING EXPRESS\
+mkdir myapp
+cd myapp
+create repository
+npm init
+npm install express
+add .gitignore */
 
 const express = require('express')
 const app = express()
